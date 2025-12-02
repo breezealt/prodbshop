@@ -1,1 +1,36 @@
-﻿
+﻿{
+  "games": [
+    {
+      "name": "Murder Mystery 2",
+      "image": "https://tr.rbxcdn.com/4e972c6d145c2ab78b91f7d63815e573/420/420/Image/Png"
+    },
+    {
+      "name": "Steal A Brainrot",
+      "image": "https://tr.rbxcdn.com/abc123/420/420/Image/Png"
+    },
+    {
+      "name": "Grow A Garden",
+      "image": "https://tr.rbxcdn.com/def456/420/420/Image/Png"
+    },
+    {
+      "name": "Toilet Tower Defense",
+      "image": "https://tr.rbxcdn.com/ghi789/420/420/Image/Png"
+    },
+    {
+      "name": "Pet Simulator 99",
+      "image": "https://tr.rbxcdn.com/jkl012/420/420/Image/Png"
+    },
+    {
+      "name": "Blox Fruits",
+      "image": "https://tr.rbxcdn.com/mno345/420/420/Image/Png"
+    },
+    {
+      "name": "Adopt Me!",
+      "image": "https://tr.rbxcdn.com/pqr678/420/420/Image/Png"
+    },
+    {
+      "name": "Brookhaven",
+      "image": "https://tr.rbxcdn.com/stu901/420/420/Image/Png"
+    }
+  ]
+}
