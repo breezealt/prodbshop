@@ -22,7 +22,7 @@
       "tags": ["Popular", "Best Seller", "New"],
       "deliveryTime": "Instant",
       "stock": 50,
-      "rating": 4.9,
+      "rating": 5.0,
       "reviews": 127,
       "discount": 20
     },
@@ -48,7 +48,7 @@
       "tags": ["Popular", "Good Deal", "Verified"],
       "deliveryTime": "< 5 minutes",
       "stock": 15,
-      "rating": 4.8,
+      "rating": 5.0,
       "reviews": 89,
       "discount": 33
     },
@@ -73,7 +73,7 @@
       "tags": ["Good Deal", "Steam"],
       "deliveryTime": "< 10 minutes",
       "stock": 8,
-      "rating": 4.7,
+      "rating": 5.0,
       "reviews": 42
     },
     {
@@ -93,7 +93,7 @@
       "tags": ["Secret", "Limited", "Rare"],
       "deliveryTime": "Instant",
       "stock": 3,
-      "rating": 4.9,
+      "rating": 5.0,
       "reviews": 18
     },
     {
@@ -118,7 +118,7 @@
       "tags": ["Popular", "Digital", "Global"],
       "deliveryTime": "Instant",
       "stock": 100,
-      "rating": 4.8,
+      "rating": 5.0,
       "reviews": 256,
       "discount": 60
     },
@@ -143,7 +143,7 @@
       "tags": ["Popular", "Fast Delivery", "Best Seller"],
       "deliveryTime": "< 5 minutes",
       "stock": 500,
-      "rating": 4.9,
+      "rating": 5.0,
       "reviews": 342
     },
     {
@@ -168,7 +168,7 @@
       "tags": ["Titanic", "Random", "Good Deal"],
       "deliveryTime": "< 10 minutes",
       "stock": 25,
-      "rating": 4.7,
+      "rating": 5.0,
       "reviews": 94,
       "discount": 25
     },
@@ -193,7 +193,7 @@
       "tags": ["Bulk", "Good Deal", "Huge"],
       "deliveryTime": "< 15 minutes",
       "stock": 30,
-      "rating": 4.8,
+      "rating": 5.0,
       "reviews": 67
     },
     {
@@ -217,7 +217,7 @@
       "tags": ["Rare", "Popular", "Limited"],
       "deliveryTime": "< 5 minutes",
       "stock": 12,
-      "rating": 4.9,
+      "rating": 5.0,
       "reviews": 45
     },
     {
@@ -241,7 +241,7 @@
       "tags": ["Popular", "Affordable", "Fast Delivery"],
       "deliveryTime": "Instant",
       "stock": 50,
-      "rating": 4.7,
+      "rating": 5.0,
       "reviews": 89
     },
     {
@@ -272,7 +272,7 @@
       "tags": ["Bundle", "Good Deal", "Complete"],
       "deliveryTime": "< 20 minutes",
       "stock": 20,
-      "rating": 4.8,
+      "rating": 5.0,
       "reviews": 56,
       "discount": 27
     },
@@ -297,7 +297,7 @@
       "tags": ["VPN", "Digital", "Subscription"],
       "deliveryTime": "Instant",
       "stock": 100,
-      "rating": 4.9,
+      "rating": 5.0,
       "reviews": 312
     },
     {
@@ -346,7 +346,7 @@
       "tags": ["Rainbow", "Rare", "Limited"],
       "deliveryTime": "< 10 minutes",
       "stock": 8,
-      "rating": 4.9,
+      "rating": 5.0,
       "reviews": 23
     },
     {
@@ -370,10 +370,11 @@
       "tags": ["Digital", "Discord", "Boost"],
       "deliveryTime": "Instant",
       "stock": 200,
-      "rating": 4.8,
+      "rating": 5.0,
       "reviews": 145
     }
   ]
 }
+
 
 
