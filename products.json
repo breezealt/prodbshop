@@ -27,7 +27,7 @@
       "discount": 20
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Gorilla Tag Account - Full Access",
       "price": 5.99,
       "originalPrice": 8.99,
@@ -53,7 +53,7 @@
       "discount": 33
     },
     {
-      "id": 4,
+      "id": 3,
       "title": "BeamNG.drive STEAM ACCOUNT",
       "price": 6.99,
       "game": "Accounts",
@@ -77,7 +77,7 @@
       "reviews": 42
     },
     {
-      "id": 5,
+      "id": 4,
       "title": "Brainrot 1m/s Los Mr Carrotitos",
       "price": 2.99,
       "game": "Plants vs Brainrots",
@@ -101,7 +101,7 @@
       "reviews": 18
     },
     {
-      "id": 6,
+      "id": 5,
       "title": "Discord Nitro 3-Month PROMO Code",
       "price": 3.95,
       "originalPrice": 9.99,
@@ -127,7 +127,7 @@
       "discount": 60
     },
     {
-      "id": 12,
+      "id": 6,
       "title": "1 Billion GEMS - Pet Simulator 99",
       "price": 1.99,
       "game": "Pet Simulator 99",
@@ -151,7 +151,7 @@
       "reviews": 342
     },
     {
-      "id": 13,
+      "id": 7,
       "title": "Random Titanic Pet - Pet Simulator 99",
       "price": 14.99,
       "originalPrice": 19.99,
@@ -177,7 +177,7 @@
       "discount": 25
     },
     {
-      "id": 14,
+      "id": 8,
       "title": "100X Huge Pets - Pet Simulator 99",
       "price": 8.99,
       "game": "Pet Simulator 99",
@@ -201,7 +201,7 @@
       "reviews": 67
     },
     {
-      "id": 16,
+      "id": 9,
       "title": "RACCOON PET - Grow A Garden",
       "price": 9.99,
       "game": "Grow A Garden",
@@ -225,7 +225,7 @@
       "reviews": 45
     },
     {
-      "id": 18,
+      "id": 10,
       "title": "QUEEN BEE PET - Grow A Garden",
       "price": 1.99,
       "game": "Grow A Garden",
@@ -249,7 +249,7 @@
       "reviews": 89
     },
     {
-      "id": 26,
+      "id": 11,
       "title": "MIMIC OCTOPUS - Grow A Garden",
       "price": 1.99,
       "game": "Grow A Garden",
@@ -273,7 +273,7 @@
       "reviews": 42
     },
     {
-      "id": 34,
+      "id": 12,
       "title": "Rebirths 1-11 - Plants vs Brainrots",
       "price": 10.99,
       "originalPrice": 14.99,
@@ -299,7 +299,7 @@
       "discount": 27
     },
     {
-      "id": 35,
+      "id": 13,
       "title": "NordVPN - 1 Year + 6 Devices",
       "price": 1.00,
       "game": "VPN",
@@ -323,7 +323,7 @@
       "reviews": 312
     },
     {
-      "id": 82,
+      "id": 14,
       "title": "Gorilla Tag Account - Not Full Access",
       "price": 3.99,
       "game": "Accounts",
@@ -346,34 +346,9 @@
       "rating": 4.5,
       "reviews": 34
     },
+  
     {
-      "id": 83,
-      "title": "Adopt Me! Mega Neon Pet Bundle",
-      "price": 4.99,
-      "originalPrice": 7.99,
-      "game": "Adopt Me",
-      "type": "Pets",
-      "variant": "mega",
-      "image": "https://i.postimg.cc/0NxWzQ5R/adoptme.jpg",
-      "link": "https://blushopnettt.sell.app/product/adopt-me-mega-neon",
-      "description": "Mega Neon pet bundle for Adopt Me! Includes rare and ultra-rare Mega Neon pets.",
-      "features": [
-        "Mega Neon pets",
-        "Rare variants included",
-        "Fast delivery",
-        "Safe trading",
-        "Includes 3-5 pets",
-        "Guaranteed working"
-      ],
-      "tags": ["Mega", "Bundle", "Popular"],
-      "deliveryTime": "< 15 minutes",
-      "stock": 40,
-      "rating": 4.7,
-      "reviews": 78,
-      "discount": 38
-    },
-    {
-      "id": 84,
+      "id": 15,
       "title": "Steal A Brainrot - Rainbow Mutation",
       "price": 7.99,
       "game": "Steal A Brainrot",
@@ -397,7 +372,7 @@
       "reviews": 23
     },
     {
-      "id": 85,
+      "id": 16,
       "title": "Discord Server Boosts - 3 Months",
       "price": 2.99,
       "game": "Game Codes",
@@ -422,3 +397,4 @@
     }
   ]
 }
+
