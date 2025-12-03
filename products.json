@@ -79,20 +79,16 @@
     {
       "id": 4,
       "title": "Brainrot 1m/s Los Mr Carrotitos",
-      "price": 2.99,
+      "price": 5.99,
       "game": "Plants vs Brainrots",
       "type": "Pets",
       "variant": "Secret",
       "image": "https://i.postimg.cc/Vs7vJnmz/15dn_IHMCmrvlh_OSsletf_Gf_Hz_Lug0e_Wl_PPgu_N5YC2.jpg",
       "link": "https://blushopnettt.sell.app/product/product-1763155700?store=blushopnettt&quantity=1",
-      "description": "Secret Brainrot pet with 1m/s speed. Exclusive limited edition pet for Plants vs Brainrots.",
+      "description": "Secret Brainrot pet with 1m/s for Plants vs Brainrots.",
       "features": [
-        "Secret variant pet",
-        "1m/s movement speed",
-        "Limited edition",
-        "Exclusive to our store",
         "Fast delivery",
-        "Guaranteed working"
+        "Guaranteed working at 1m/s 1 million $ per second"
       ],
       "tags": ["Secret", "Limited", "Rare"],
       "deliveryTime": "Instant",
@@ -272,25 +268,7 @@
       "rating": 4.6,
       "reviews": 42
     },
-    {
-      "id": 12,
-      "title": "Rebirths 1-11 - Plants vs Brainrots",
-      "price": 10.99,
-      "originalPrice": 14.99,
-      "game": "Plants vs Brainrots",
-      "type": "Rebirths",
-      "variant": "bundle",
-      "image": "https://i.postimg.cc/C5vRYfLK/8l-IRWJj-Tr-Y7o-Va9DMRuui1JEV5i-Vgn-Gckr-CNm-BF8.png",
-      "link": "https://blushopnettt.sell.app/product/rebirths-1-11?store=blushopnettt&quantity=1",
-      "description": "Complete Rebirths 1 through 11 bundle for Plants vs Brainrots. Max out your account quickly!",
-      "features": [
-        "Rebirths 1-11 complete",
-        "Fast completion",
-        "Safe method",
-        "No risk of ban",
-        "Includes instructions",
-        "24/7 support"
-      ],
+
       "tags": ["Bundle", "Good Deal", "Complete"],
       "deliveryTime": "< 20 minutes",
       "stock": 20,
@@ -397,4 +375,5 @@
     }
   ]
 }
+
 
