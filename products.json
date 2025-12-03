@@ -4,7 +4,7 @@
       "id": 1,
       "title": "NXO PAID MENU",
       "price": 19.99,
-      "originalPrice": 24.99,
+      "originalPrice": 20.99,
       "game": "Gorilla Tag",
       "type": "Items",
       "variant": "regular",
@@ -24,7 +24,7 @@
       "stock": 50,
       "rating": 5.0,
       "reviews": 127,
-      "discount": 20
+      "discount": 0
     },
     {
       "id": 2,
@@ -866,6 +866,8 @@
       "stock": 50,
       "rating": 5.0,
       "reviews": 0
-    }
+    },
+    
   ]
 }
+
