@@ -20,7 +20,7 @@
         "Easy to install and use"
       ],
       "tags": ["Popular", "Best Seller", "New"],
-      "deliveryTime": "Instant",
+      "deliveryTime": "Fast",
       "stock": 50,
       "rating": 5.0,
       "reviews": 127,
@@ -91,7 +91,7 @@
         "Guaranteed working at 1m/s 1 million $ per second"
       ],
       "tags": ["Secret", "Limited", "Rare"],
-      "deliveryTime": "Instant",
+      "deliveryTime": "Fast",
       "stock": 3,
       "rating": 5.0,
       "reviews": 18
@@ -116,7 +116,7 @@
         "Email delivery"
       ],
       "tags": ["Popular", "Digital", "Global"],
-      "deliveryTime": "Instant",
+      "deliveryTime": "Fast",
       "stock": 100,
       "rating": 5.0,
       "reviews": 256,
@@ -239,7 +239,7 @@
         "Affordable price"
       ],
       "tags": ["Popular", "Affordable", "Fast Delivery"],
-      "deliveryTime": "Instant",
+      "deliveryTime": "Fast",
       "stock": 50,
       "rating": 5.0,
       "reviews": 89
@@ -263,9 +263,9 @@
         "Guaranteed working"
       ],
       "tags": ["Unique", "Fast Delivery", "Popular"],
-      "deliveryTime": "Instant",
+      "deliveryTime": "Fast",
       "stock": 35,
-      "rating": 4.6,
+      "rating": 5.0,
       "reviews": 42
     },
 
@@ -295,7 +295,7 @@
         "Global coverage"
       ],
       "tags": ["VPN", "Digital", "Subscription"],
-      "deliveryTime": "Instant",
+      "deliveryTime": "Fast",
       "stock": 100,
       "rating": 5.0,
       "reviews": 312
@@ -321,7 +321,7 @@
       "tags": ["Affordable", "Backup", "Budget"],
       "deliveryTime": "< 5 minutes",
       "stock": 25,
-      "rating": 4.5,
+      "rating": 5.0,
       "reviews": 34
     },
   
@@ -368,13 +368,14 @@
         "Global validity"
       ],
       "tags": ["Digital", "Discord", "Boost"],
-      "deliveryTime": "Instant",
+      "deliveryTime": "Fast",
       "stock": 200,
       "rating": 5.0,
       "reviews": 145
     }
   ]
 }
+
 
 
 
