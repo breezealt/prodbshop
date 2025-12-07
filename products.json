@@ -1900,7 +1900,21 @@
   "description": "Fast Delivery, Most items require livechat with us to receive! discord.gg/blugt",
   "tags": [],
   "features": ["Fast delivery"]
+},
+    {
+  "id": 149,
+  "title": "Minecraft Java & Bedrock Account",
+  "price": 11.99,
+  "game": "Minecraft",
+  "type": "Accounts",
+  "variant": "regular",
+  "image": "https://i.postimg.cc/QCYGpx5m/image.png",
+  "link": "https://blushopnettt.sell.app/product/java-bedrock-full-access-account",
+  "description": "Fast Delivery",
+  "tags": ["Popular"],
+  "features": ["Full access"]
 }
   ]
 }
+
 
